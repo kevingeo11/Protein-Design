@@ -1,0 +1,602 @@
+{
+    "amylase_esm3_temp_0.5_gen_0": {
+        "esm2_650M_perplexity": 4.788739425633878
+    },
+    "amylase_esm3_temp_0.5_gen_1": {
+        "esm2_650M_perplexity": 4.410654320406862
+    },
+    "amylase_esm3_temp_0.5_gen_2": {
+        "esm2_650M_perplexity": 4.697808601387666
+    },
+    "amylase_esm3_temp_0.5_gen_3": {
+        "esm2_650M_perplexity": 4.722842966762589
+    },
+    "amylase_esm3_temp_0.5_gen_4": {
+        "esm2_650M_perplexity": 4.968064110952429
+    },
+    "amylase_esm3_temp_0.5_gen_5": {
+        "esm2_650M_perplexity": 5.245877270158163
+    },
+    "amylase_esm3_temp_0.5_gen_6": {
+        "esm2_650M_perplexity": 5.166093908279621
+    },
+    "amylase_esm3_temp_0.5_gen_7": {
+        "esm2_650M_perplexity": 4.4356270950706005
+    },
+    "amylase_esm3_temp_0.5_gen_8": {
+        "esm2_650M_perplexity": 5.015403830945696
+    },
+    "amylase_esm3_temp_0.5_gen_9": {
+        "esm2_650M_perplexity": 4.919417854114232
+    },
+    "amylase_esm3_temp_0.5_gen_10": {
+        "esm2_650M_perplexity": 5.1393464749030615
+    },
+    "amylase_esm3_temp_0.5_gen_11": {
+        "esm2_650M_perplexity": 4.538532808729177
+    },
+    "amylase_esm3_temp_0.5_gen_12": {
+        "esm2_650M_perplexity": 4.930311253529899
+    },
+    "amylase_esm3_temp_0.5_gen_13": {
+        "esm2_650M_perplexity": 4.801307968576957
+    },
+    "amylase_esm3_temp_0.5_gen_14": {
+        "esm2_650M_perplexity": 5.32105483072692
+    },
+    "amylase_esm3_temp_0.5_gen_15": {
+        "esm2_650M_perplexity": 5.03637982502171
+    },
+    "amylase_esm3_temp_0.5_gen_16": {
+        "esm2_650M_perplexity": 4.865045861303686
+    },
+    "amylase_esm3_temp_0.5_gen_17": {
+        "esm2_650M_perplexity": 4.927870999040829
+    },
+    "amylase_esm3_temp_0.5_gen_18": {
+        "esm2_650M_perplexity": 4.936235615115716
+    },
+    "amylase_esm3_temp_0.5_gen_19": {
+        "esm2_650M_perplexity": 5.062080062969119
+    },
+    "amylase_esm3_temp_0.5_gen_20": {
+        "esm2_650M_perplexity": 5.215247480554728
+    },
+    "amylase_esm3_temp_0.5_gen_21": {
+        "esm2_650M_perplexity": 4.9004713607124195
+    },
+    "amylase_esm3_temp_0.5_gen_22": {
+        "esm2_650M_perplexity": 4.925941340460024
+    },
+    "amylase_esm3_temp_0.5_gen_23": {
+        "esm2_650M_perplexity": 4.7355211769422025
+    },
+    "amylase_esm3_temp_0.5_gen_24": {
+        "esm2_650M_perplexity": 4.856466810508728
+    },
+    "amylase_esm3_temp_0.5_gen_25": {
+        "esm2_650M_perplexity": 4.885880701838855
+    },
+    "amylase_esm3_temp_0.5_gen_26": {
+        "esm2_650M_perplexity": 4.772199625989598
+    },
+    "amylase_esm3_temp_0.5_gen_27": {
+        "esm2_650M_perplexity": 4.9483089883681375
+    },
+    "amylase_esm3_temp_0.5_gen_28": {
+        "esm2_650M_perplexity": 4.731967691681364
+    },
+    "amylase_esm3_temp_0.5_gen_29": {
+        "esm2_650M_perplexity": 4.837608115519433
+    },
+    "amylase_esm3_temp_0.5_gen_30": {
+        "esm2_650M_perplexity": 5.450220495945187
+    },
+    "amylase_esm3_temp_0.5_gen_31": {
+        "esm2_650M_perplexity": 4.790671424395862
+    },
+    "amylase_esm3_temp_0.5_gen_32": {
+        "esm2_650M_perplexity": 4.697461301630803
+    },
+    "amylase_esm3_temp_0.5_gen_33": {
+        "esm2_650M_perplexity": 4.462103875392956
+    },
+    "amylase_esm3_temp_0.5_gen_34": {
+        "esm2_650M_perplexity": 4.8678269234836575
+    },
+    "amylase_esm3_temp_0.5_gen_35": {
+        "esm2_650M_perplexity": 5.141362527320873
+    },
+    "amylase_esm3_temp_0.5_gen_36": {
+        "esm2_650M_perplexity": 4.812040827459706
+    },
+    "amylase_esm3_temp_0.5_gen_37": {
+        "esm2_650M_perplexity": 4.975530902569393
+    },
+    "amylase_esm3_temp_0.5_gen_38": {
+        "esm2_650M_perplexity": 4.82518437291487
+    },
+    "amylase_esm3_temp_0.5_gen_39": {
+        "esm2_650M_perplexity": 4.825328015937473
+    },
+    "amylase_esm3_temp_0.5_gen_40": {
+        "esm2_650M_perplexity": 4.66441009411746
+    },
+    "amylase_esm3_temp_0.5_gen_41": {
+        "esm2_650M_perplexity": 5.161282164541188
+    },
+    "amylase_esm3_temp_0.5_gen_42": {
+        "esm2_650M_perplexity": 4.957860646475373
+    },
+    "amylase_esm3_temp_0.5_gen_43": {
+        "esm2_650M_perplexity": 4.733103041019983
+    },
+    "amylase_esm3_temp_0.5_gen_44": {
+        "esm2_650M_perplexity": 5.2971636312494335
+    },
+    "amylase_esm3_temp_0.5_gen_45": {
+        "esm2_650M_perplexity": 4.874429592186484
+    },
+    "amylase_esm3_temp_0.5_gen_46": {
+        "esm2_650M_perplexity": 4.689590019898065
+    },
+    "amylase_esm3_temp_0.5_gen_47": {
+        "esm2_650M_perplexity": 4.471153644374123
+    },
+    "amylase_esm3_temp_0.5_gen_48": {
+        "esm2_650M_perplexity": 5.0455037095112365
+    },
+    "amylase_esm3_temp_0.5_gen_49": {
+        "esm2_650M_perplexity": 4.935607014841453
+    },
+    "amylase_esm3_temp_0.5_gen_50": {
+        "esm2_650M_perplexity": 5.018262105794087
+    },
+    "amylase_esm3_temp_0.5_gen_51": {
+        "esm2_650M_perplexity": 4.816941837050146
+    },
+    "amylase_esm3_temp_0.5_gen_52": {
+        "esm2_650M_perplexity": 4.69127271746052
+    },
+    "amylase_esm3_temp_0.5_gen_53": {
+        "esm2_650M_perplexity": 5.335888878688817
+    },
+    "amylase_esm3_temp_0.5_gen_54": {
+        "esm2_650M_perplexity": 5.186846162327932
+    },
+    "amylase_esm3_temp_0.5_gen_55": {
+        "esm2_650M_perplexity": 5.048095426944388
+    },
+    "amylase_esm3_temp_0.5_gen_56": {
+        "esm2_650M_perplexity": 4.954437142118062
+    },
+    "amylase_esm3_temp_0.5_gen_57": {
+        "esm2_650M_perplexity": 4.872038725477297
+    },
+    "amylase_esm3_temp_0.5_gen_58": {
+        "esm2_650M_perplexity": 4.956562251263353
+    },
+    "amylase_esm3_temp_0.5_gen_59": {
+        "esm2_650M_perplexity": 4.998569059537044
+    },
+    "amylase_esm3_temp_0.5_gen_60": {
+        "esm2_650M_perplexity": 4.6510070025607995
+    },
+    "amylase_esm3_temp_0.5_gen_61": {
+        "esm2_650M_perplexity": 5.601487191685355
+    },
+    "amylase_esm3_temp_0.5_gen_62": {
+        "esm2_650M_perplexity": 4.829934188530296
+    },
+    "amylase_esm3_temp_0.5_gen_63": {
+        "esm2_650M_perplexity": 5.103112083552558
+    },
+    "amylase_esm3_temp_0.5_gen_64": {
+        "esm2_650M_perplexity": 5.001063495691067
+    },
+    "amylase_esm3_temp_0.5_gen_65": {
+        "esm2_650M_perplexity": 4.744673902539128
+    },
+    "amylase_esm3_temp_0.5_gen_66": {
+        "esm2_650M_perplexity": 5.219840586252348
+    },
+    "amylase_esm3_temp_0.5_gen_67": {
+        "esm2_650M_perplexity": 4.8226023831350595
+    },
+    "amylase_esm3_temp_0.5_gen_68": {
+        "esm2_650M_perplexity": 5.261805728827782
+    },
+    "amylase_esm3_temp_0.5_gen_69": {
+        "esm2_650M_perplexity": 5.077291472478242
+    },
+    "amylase_esm3_temp_0.5_gen_70": {
+        "esm2_650M_perplexity": 4.787021092571675
+    },
+    "amylase_esm3_temp_0.5_gen_71": {
+        "esm2_650M_perplexity": 4.73266593163524
+    },
+    "amylase_esm3_temp_0.5_gen_72": {
+        "esm2_650M_perplexity": 5.122033339123132
+    },
+    "amylase_esm3_temp_0.5_gen_73": {
+        "esm2_650M_perplexity": 4.957328373792239
+    },
+    "amylase_esm3_temp_0.5_gen_74": {
+        "esm2_650M_perplexity": 5.048247921203373
+    },
+    "amylase_esm3_temp_0.5_gen_75": {
+        "esm2_650M_perplexity": 5.261625854468653
+    },
+    "amylase_esm3_temp_0.5_gen_76": {
+        "esm2_650M_perplexity": 4.567352271141632
+    },
+    "amylase_esm3_temp_0.5_gen_77": {
+        "esm2_650M_perplexity": 5.091450477101465
+    },
+    "amylase_esm3_temp_0.5_gen_78": {
+        "esm2_650M_perplexity": 4.788565209975669
+    },
+    "amylase_esm3_temp_0.5_gen_79": {
+        "esm2_650M_perplexity": 5.01274852617193
+    },
+    "amylase_esm3_temp_0.5_gen_80": {
+        "esm2_650M_perplexity": 4.8001222631122
+    },
+    "amylase_esm3_temp_0.5_gen_81": {
+        "esm2_650M_perplexity": 5.080475790974145
+    },
+    "amylase_esm3_temp_0.5_gen_82": {
+        "esm2_650M_perplexity": 5.103621612145271
+    },
+    "amylase_esm3_temp_0.5_gen_83": {
+        "esm2_650M_perplexity": 4.819467620251166
+    },
+    "amylase_esm3_temp_0.5_gen_84": {
+        "esm2_650M_perplexity": 5.153664241742644
+    },
+    "amylase_esm3_temp_0.5_gen_85": {
+        "esm2_650M_perplexity": 5.010823432057931
+    },
+    "amylase_esm3_temp_0.5_gen_86": {
+        "esm2_650M_perplexity": 4.885438295136604
+    },
+    "amylase_esm3_temp_0.5_gen_87": {
+        "esm2_650M_perplexity": 4.949496094359168
+    },
+    "amylase_esm3_temp_0.5_gen_88": {
+        "esm2_650M_perplexity": 4.857647683375583
+    },
+    "amylase_esm3_temp_0.5_gen_89": {
+        "esm2_650M_perplexity": 4.808965051040434
+    },
+    "amylase_esm3_temp_0.5_gen_90": {
+        "esm2_650M_perplexity": 4.875656681124533
+    },
+    "amylase_esm3_temp_0.5_gen_91": {
+        "esm2_650M_perplexity": 4.496498720806465
+    },
+    "amylase_esm3_temp_0.5_gen_92": {
+        "esm2_650M_perplexity": 5.4349504178924075
+    },
+    "amylase_esm3_temp_0.5_gen_93": {
+        "esm2_650M_perplexity": 4.4414636386584325
+    },
+    "amylase_esm3_temp_0.5_gen_94": {
+        "esm2_650M_perplexity": 4.773740144664615
+    },
+    "amylase_esm3_temp_0.5_gen_95": {
+        "esm2_650M_perplexity": 5.29664945175993
+    },
+    "amylase_esm3_temp_0.5_gen_96": {
+        "esm2_650M_perplexity": 4.659606617838254
+    },
+    "amylase_esm3_temp_0.5_gen_97": {
+        "esm2_650M_perplexity": 5.178112768402305
+    },
+    "amylase_esm3_temp_0.5_gen_98": {
+        "esm2_650M_perplexity": 4.5816332704718095
+    },
+    "amylase_esm3_temp_0.5_gen_99": {
+        "esm2_650M_perplexity": 4.980297840841394
+    },
+    "amylase_esm3_temp_0.5_gen_100": {
+        "esm2_650M_perplexity": 4.746572538438837
+    },
+    "amylase_esm3_temp_0.5_gen_101": {
+        "esm2_650M_perplexity": 5.155038652325276
+    },
+    "amylase_esm3_temp_0.5_gen_102": {
+        "esm2_650M_perplexity": 4.997778916235807
+    },
+    "amylase_esm3_temp_0.5_gen_103": {
+        "esm2_650M_perplexity": 4.296092163759212
+    },
+    "amylase_esm3_temp_0.5_gen_104": {
+        "esm2_650M_perplexity": 4.805453679264087
+    },
+    "amylase_esm3_temp_0.5_gen_105": {
+        "esm2_650M_perplexity": 4.694084367536062
+    },
+    "amylase_esm3_temp_0.5_gen_106": {
+        "esm2_650M_perplexity": 5.310379861320497
+    },
+    "amylase_esm3_temp_0.5_gen_107": {
+        "esm2_650M_perplexity": 4.78342405362782
+    },
+    "amylase_esm3_temp_0.5_gen_108": {
+        "esm2_650M_perplexity": 4.672324752131605
+    },
+    "amylase_esm3_temp_0.5_gen_109": {
+        "esm2_650M_perplexity": 5.340042922530565
+    },
+    "amylase_esm3_temp_0.5_gen_110": {
+        "esm2_650M_perplexity": 4.717808013452761
+    },
+    "amylase_esm3_temp_0.5_gen_111": {
+        "esm2_650M_perplexity": 4.880202737408186
+    },
+    "amylase_esm3_temp_0.5_gen_112": {
+        "esm2_650M_perplexity": 4.80708726291722
+    },
+    "amylase_esm3_temp_0.5_gen_113": {
+        "esm2_650M_perplexity": 4.982617541362398
+    },
+    "amylase_esm3_temp_0.5_gen_114": {
+        "esm2_650M_perplexity": 5.1081631758633925
+    },
+    "amylase_esm3_temp_0.5_gen_115": {
+        "esm2_650M_perplexity": 4.918844153091104
+    },
+    "amylase_esm3_temp_0.5_gen_116": {
+        "esm2_650M_perplexity": 4.974723235881641
+    },
+    "amylase_esm3_temp_0.5_gen_117": {
+        "esm2_650M_perplexity": 4.9682010025422265
+    },
+    "amylase_esm3_temp_0.5_gen_118": {
+        "esm2_650M_perplexity": 4.982148532039913
+    },
+    "amylase_esm3_temp_0.5_gen_119": {
+        "esm2_650M_perplexity": 4.580207948264065
+    },
+    "amylase_esm3_temp_0.5_gen_120": {
+        "esm2_650M_perplexity": 4.637111632929523
+    },
+    "amylase_esm3_temp_0.5_gen_121": {
+        "esm2_650M_perplexity": 4.938612111823455
+    },
+    "amylase_esm3_temp_0.5_gen_122": {
+        "esm2_650M_perplexity": 4.753941841967698
+    },
+    "amylase_esm3_temp_0.5_gen_123": {
+        "esm2_650M_perplexity": 5.0913283568268035
+    },
+    "amylase_esm3_temp_0.5_gen_124": {
+        "esm2_650M_perplexity": 4.9269560597403235
+    },
+    "amylase_esm3_temp_0.5_gen_125": {
+        "esm2_650M_perplexity": 4.939817665449668
+    },
+    "amylase_esm3_temp_0.5_gen_126": {
+        "esm2_650M_perplexity": 5.218259017838786
+    },
+    "amylase_esm3_temp_0.5_gen_127": {
+        "esm2_650M_perplexity": 4.7214076751611875
+    },
+    "amylase_esm3_temp_0.5_gen_128": {
+        "esm2_650M_perplexity": 4.703195379543314
+    },
+    "amylase_esm3_temp_0.5_gen_129": {
+        "esm2_650M_perplexity": 5.351455808294921
+    },
+    "amylase_esm3_temp_0.5_gen_130": {
+        "esm2_650M_perplexity": 4.779644052485451
+    },
+    "amylase_esm3_temp_0.5_gen_131": {
+        "esm2_650M_perplexity": 5.141931907933953
+    },
+    "amylase_esm3_temp_0.5_gen_132": {
+        "esm2_650M_perplexity": 5.038110383389068
+    },
+    "amylase_esm3_temp_0.5_gen_133": {
+        "esm2_650M_perplexity": 5.154472532245714
+    },
+    "amylase_esm3_temp_0.5_gen_134": {
+        "esm2_650M_perplexity": 5.198807058899761
+    },
+    "amylase_esm3_temp_0.5_gen_135": {
+        "esm2_650M_perplexity": 4.940691106550866
+    },
+    "amylase_esm3_temp_0.5_gen_136": {
+        "esm2_650M_perplexity": 4.615330814747896
+    },
+    "amylase_esm3_temp_0.5_gen_137": {
+        "esm2_650M_perplexity": 5.021345684450782
+    },
+    "amylase_esm3_temp_0.5_gen_138": {
+        "esm2_650M_perplexity": 5.2129874136584196
+    },
+    "amylase_esm3_temp_0.5_gen_139": {
+        "esm2_650M_perplexity": 4.7847842345826805
+    },
+    "amylase_esm3_temp_0.5_gen_140": {
+        "esm2_650M_perplexity": 4.841545067298103
+    },
+    "amylase_esm3_temp_0.5_gen_141": {
+        "esm2_650M_perplexity": 4.9406232891500785
+    },
+    "amylase_esm3_temp_0.5_gen_142": {
+        "esm2_650M_perplexity": 4.600857781795737
+    },
+    "amylase_esm3_temp_0.5_gen_143": {
+        "esm2_650M_perplexity": 5.102613363922947
+    },
+    "amylase_esm3_temp_0.5_gen_144": {
+        "esm2_650M_perplexity": 4.697093650314713
+    },
+    "amylase_esm3_temp_0.5_gen_145": {
+        "esm2_650M_perplexity": 4.8973462683476825
+    },
+    "amylase_esm3_temp_0.5_gen_146": {
+        "esm2_650M_perplexity": 5.101828704848746
+    },
+    "amylase_esm3_temp_0.5_gen_147": {
+        "esm2_650M_perplexity": 4.758390946386187
+    },
+    "amylase_esm3_temp_0.5_gen_148": {
+        "esm2_650M_perplexity": 5.298630697457644
+    },
+    "amylase_esm3_temp_0.5_gen_149": {
+        "esm2_650M_perplexity": 4.692368196526139
+    },
+    "amylase_esm3_temp_0.5_gen_150": {
+        "esm2_650M_perplexity": 5.079967460821377
+    },
+    "amylase_esm3_temp_0.5_gen_151": {
+        "esm2_650M_perplexity": 4.98333412974873
+    },
+    "amylase_esm3_temp_0.5_gen_152": {
+        "esm2_650M_perplexity": 4.955057313321725
+    },
+    "amylase_esm3_temp_0.5_gen_153": {
+        "esm2_650M_perplexity": 4.919657074509527
+    },
+    "amylase_esm3_temp_0.5_gen_154": {
+        "esm2_650M_perplexity": 4.730311331757026
+    },
+    "amylase_esm3_temp_0.5_gen_155": {
+        "esm2_650M_perplexity": 4.5059871385235875
+    },
+    "amylase_esm3_temp_0.5_gen_156": {
+        "esm2_650M_perplexity": 5.313070099599694
+    },
+    "amylase_esm3_temp_0.5_gen_157": {
+        "esm2_650M_perplexity": 4.894066183238946
+    },
+    "amylase_esm3_temp_0.5_gen_158": {
+        "esm2_650M_perplexity": 4.933970498554053
+    },
+    "amylase_esm3_temp_0.5_gen_159": {
+        "esm2_650M_perplexity": 4.575379010354168
+    },
+    "amylase_esm3_temp_0.5_gen_160": {
+        "esm2_650M_perplexity": 5.0672456914677895
+    },
+    "amylase_esm3_temp_0.5_gen_161": {
+        "esm2_650M_perplexity": 5.208066128568479
+    },
+    "amylase_esm3_temp_0.5_gen_162": {
+        "esm2_650M_perplexity": 4.933286890234666
+    },
+    "amylase_esm3_temp_0.5_gen_163": {
+        "esm2_650M_perplexity": 5.327646209062116
+    },
+    "amylase_esm3_temp_0.5_gen_164": {
+        "esm2_650M_perplexity": 4.809753501169067
+    },
+    "amylase_esm3_temp_0.5_gen_165": {
+        "esm2_650M_perplexity": 4.915839684990834
+    },
+    "amylase_esm3_temp_0.5_gen_166": {
+        "esm2_650M_perplexity": 5.112157430386286
+    },
+    "amylase_esm3_temp_0.5_gen_167": {
+        "esm2_650M_perplexity": 4.501992795153972
+    },
+    "amylase_esm3_temp_0.5_gen_168": {
+        "esm2_650M_perplexity": 4.98396809851572
+    },
+    "amylase_esm3_temp_0.5_gen_169": {
+        "esm2_650M_perplexity": 4.823397522019691
+    },
+    "amylase_esm3_temp_0.5_gen_170": {
+        "esm2_650M_perplexity": 4.804879292277399
+    },
+    "amylase_esm3_temp_0.5_gen_171": {
+        "esm2_650M_perplexity": 4.791578181699446
+    },
+    "amylase_esm3_temp_0.5_gen_172": {
+        "esm2_650M_perplexity": 5.040745058979555
+    },
+    "amylase_esm3_temp_0.5_gen_173": {
+        "esm2_650M_perplexity": 4.979815803961941
+    },
+    "amylase_esm3_temp_0.5_gen_174": {
+        "esm2_650M_perplexity": 4.761439686713212
+    },
+    "amylase_esm3_temp_0.5_gen_175": {
+        "esm2_650M_perplexity": 4.884601657495828
+    },
+    "amylase_esm3_temp_0.5_gen_176": {
+        "esm2_650M_perplexity": 4.928443078985939
+    },
+    "amylase_esm3_temp_0.5_gen_177": {
+        "esm2_650M_perplexity": 4.677000533323315
+    },
+    "amylase_esm3_temp_0.5_gen_178": {
+        "esm2_650M_perplexity": 4.816643661290681
+    },
+    "amylase_esm3_temp_0.5_gen_179": {
+        "esm2_650M_perplexity": 4.933677115716926
+    },
+    "amylase_esm3_temp_0.5_gen_180": {
+        "esm2_650M_perplexity": 4.6984466523611506
+    },
+    "amylase_esm3_temp_0.5_gen_181": {
+        "esm2_650M_perplexity": 5.109487167083391
+    },
+    "amylase_esm3_temp_0.5_gen_182": {
+        "esm2_650M_perplexity": 4.914689736493325
+    },
+    "amylase_esm3_temp_0.5_gen_183": {
+        "esm2_650M_perplexity": 5.0594503505612165
+    },
+    "amylase_esm3_temp_0.5_gen_184": {
+        "esm2_650M_perplexity": 4.980040406372296
+    },
+    "amylase_esm3_temp_0.5_gen_185": {
+        "esm2_650M_perplexity": 4.581650818343088
+    },
+    "amylase_esm3_temp_0.5_gen_186": {
+        "esm2_650M_perplexity": 4.605851428581363
+    },
+    "amylase_esm3_temp_0.5_gen_187": {
+        "esm2_650M_perplexity": 5.034875201780264
+    },
+    "amylase_esm3_temp_0.5_gen_188": {
+        "esm2_650M_perplexity": 4.957947034371316
+    },
+    "amylase_esm3_temp_0.5_gen_189": {
+        "esm2_650M_perplexity": 4.813722195141445
+    },
+    "amylase_esm3_temp_0.5_gen_190": {
+        "esm2_650M_perplexity": 4.742525466932163
+    },
+    "amylase_esm3_temp_0.5_gen_191": {
+        "esm2_650M_perplexity": 5.002815148971676
+    },
+    "amylase_esm3_temp_0.5_gen_192": {
+        "esm2_650M_perplexity": 4.676852854617644
+    },
+    "amylase_esm3_temp_0.5_gen_193": {
+        "esm2_650M_perplexity": 5.084645690586686
+    },
+    "amylase_esm3_temp_0.5_gen_194": {
+        "esm2_650M_perplexity": 5.121849446067932
+    },
+    "amylase_esm3_temp_0.5_gen_195": {
+        "esm2_650M_perplexity": 5.1881473017037925
+    },
+    "amylase_esm3_temp_0.5_gen_196": {
+        "esm2_650M_perplexity": 5.503539490329678
+    },
+    "amylase_esm3_temp_0.5_gen_197": {
+        "esm2_650M_perplexity": 4.633388609917364
+    },
+    "amylase_esm3_temp_0.5_gen_198": {
+        "esm2_650M_perplexity": 4.783917177363244
+    },
+    "amylase_esm3_temp_0.5_gen_199": {
+        "esm2_650M_perplexity": 5.023922706028628
+    }
+}

@@ -5,6 +5,7 @@ import numpy as np
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
+from Bio import pairwise2
 
 
 def create_fasta(sequences: dict | List[SeqRecord], 
@@ -36,15 +37,6 @@ def read_fasta(file: str, mode: str='default') -> List[type[SeqRecord] | str]:
     else:
         return [i for i in records]
     
-def update_metadata(file, key, value, force=False):
-    if os.path.isfile(file):
-        metadata = dict(np.load(file))
-        if not force and key in metadata:
-            raise Exception(f'key {key} found. if you want to force add then keep force=True')
-        metadata[key] = value
-        np.savez(file.replace('.npz', ''), **metadata)
-    else:
-        raise Exception(f'{file} metadata not found')
     
 def update_metadata_json(json_file, protein_id, key, value, force=False):
     try:
@@ -64,3 +56,14 @@ def update_metadata_json(json_file, protein_id, key, value, force=False):
 
     with open(json_file, 'w') as file:
         json.dump(metadata, file, indent=4)
+
+
+def calculate_seq_identity(seq1: SeqRecord, seq2: SeqRecord):
+    alignments = pairwise2.align.globalxx(seq1.seq, seq2.seq)[0]
+    aligned_seq1, aligned_seq2, *_ = alignments
+
+    seq_id = sum(1 for a, b in zip(aligned_seq1, aligned_seq2) if a == b) / len(aligned_seq1)
+
+    return seq_id
+
+
