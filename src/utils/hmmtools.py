@@ -54,7 +54,6 @@ class HmmerTools():
 
             return df
 
-
     def parse_hmmsearch_tblout(self, filename):
         with open(filename) as fin:
             tmp = []

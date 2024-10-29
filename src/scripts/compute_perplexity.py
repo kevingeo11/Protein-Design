@@ -72,8 +72,8 @@ def compute_perplexity(model, sequence, mask_token='<mask>'):
 model_path = '/data/users/kgeorge/workspace/esm2/checkpoints/esm2_t33_650M_UR50D.pt'
 esm2 = ESM2(model_path = model_path, device='gpu')
 
-fasta_path = '../../Data/esm3_gen.fasta'
-meta_file = '../../Data/esm3_gen.metadata.json'
+fasta_path = '../../Data/sequences_425.fasta'
+meta_file = '../../Data/sequences_425.metadata.json'
 
 records = helper.read_fasta(fasta_path)
 for rec in records:

@@ -1,602 +1,1602 @@
 {
     "amylase_esm3_temp_0.5_gen_0": {
-        "esm2_650M_perplexity": 4.788739425633878
+        "esm2_650M_perplexity": 4.788739425633878,
+        "seq_id": 0.33858267716535434,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95211,
+        "plddt": 0.7951900351325455
     },
     "amylase_esm3_temp_0.5_gen_1": {
-        "esm2_650M_perplexity": 4.410654320406862
+        "esm2_650M_perplexity": 4.410654320406862,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97461,
+        "plddt": 0.817851110416015
     },
     "amylase_esm3_temp_0.5_gen_2": {
-        "esm2_650M_perplexity": 4.697808601387666
+        "esm2_650M_perplexity": 4.697808601387666,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97635,
+        "plddt": 0.829634900990099
     },
     "amylase_esm3_temp_0.5_gen_3": {
-        "esm2_650M_perplexity": 4.722842966762589
+        "esm2_650M_perplexity": 4.722842966762589,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97656,
+        "plddt": 0.8358363970588235
     },
     "amylase_esm3_temp_0.5_gen_4": {
-        "esm2_650M_perplexity": 4.968064110952429
+        "esm2_650M_perplexity": 4.968064110952429,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94746,
+        "plddt": 0.8078446958116784
     },
     "amylase_esm3_temp_0.5_gen_5": {
-        "esm2_650M_perplexity": 5.245877270158163
+        "esm2_650M_perplexity": 5.245877270158163,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97982,
+        "plddt": 0.8542558502340093
     },
     "amylase_esm3_temp_0.5_gen_6": {
-        "esm2_650M_perplexity": 5.166093908279621
+        "esm2_650M_perplexity": 5.166093908279621,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96326,
+        "plddt": 0.8039356435643563
     },
     "amylase_esm3_temp_0.5_gen_7": {
-        "esm2_650M_perplexity": 4.4356270950706005
+        "esm2_650M_perplexity": 4.4356270950706005,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97017,
+        "plddt": 0.8253966231283849
     },
     "amylase_esm3_temp_0.5_gen_8": {
-        "esm2_650M_perplexity": 5.015403830945696
+        "esm2_650M_perplexity": 5.015403830945696,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96955,
+        "plddt": 0.8171876942200125
     },
     "amylase_esm3_temp_0.5_gen_9": {
-        "esm2_650M_perplexity": 4.919417854114232
+        "esm2_650M_perplexity": 4.919417854114232,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.94184,
+        "plddt": 0.8137330037082817
     },
     "amylase_esm3_temp_0.5_gen_10": {
-        "esm2_650M_perplexity": 5.1393464749030615
+        "esm2_650M_perplexity": 5.1393464749030615,
+        "seq_id": 0.34281200631911535,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9554,
+        "plddt": 0.8215465838509317
     },
     "amylase_esm3_temp_0.5_gen_11": {
-        "esm2_650M_perplexity": 4.538532808729177
+        "esm2_650M_perplexity": 4.538532808729177,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97369,
+        "plddt": 0.8463462123516885
     },
     "amylase_esm3_temp_0.5_gen_12": {
-        "esm2_650M_perplexity": 4.930311253529899
+        "esm2_650M_perplexity": 4.930311253529899,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96207,
+        "plddt": 0.8167850348763475
     },
     "amylase_esm3_temp_0.5_gen_13": {
-        "esm2_650M_perplexity": 4.801307968576957
+        "esm2_650M_perplexity": 4.801307968576957,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97097,
+        "plddt": 0.8174316252750707
     },
     "amylase_esm3_temp_0.5_gen_14": {
-        "esm2_650M_perplexity": 5.32105483072692
+        "esm2_650M_perplexity": 5.32105483072692,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9626,
+        "plddt": 0.8097652147049738
     },
     "amylase_esm3_temp_0.5_gen_15": {
-        "esm2_650M_perplexity": 5.03637982502171
+        "esm2_650M_perplexity": 5.03637982502171,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97728,
+        "plddt": 0.8294289261328368
     },
     "amylase_esm3_temp_0.5_gen_16": {
-        "esm2_650M_perplexity": 4.865045861303686
+        "esm2_650M_perplexity": 4.865045861303686,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97318,
+        "plddt": 0.856728067436778
     },
     "amylase_esm3_temp_0.5_gen_17": {
-        "esm2_650M_perplexity": 4.927870999040829
+        "esm2_650M_perplexity": 4.927870999040829,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97363,
+        "plddt": 0.8286964735516373
     },
     "amylase_esm3_temp_0.5_gen_18": {
-        "esm2_650M_perplexity": 4.936235615115716
+        "esm2_650M_perplexity": 4.936235615115716,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96693,
+        "plddt": 0.8337873545139981
     },
     "amylase_esm3_temp_0.5_gen_19": {
-        "esm2_650M_perplexity": 5.062080062969119
+        "esm2_650M_perplexity": 5.062080062969119,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98004,
+        "plddt": 0.8298856613102596
     },
     "amylase_esm3_temp_0.5_gen_20": {
-        "esm2_650M_perplexity": 5.215247480554728
+        "esm2_650M_perplexity": 5.215247480554728,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96819,
+        "plddt": 0.8173038167938932
     },
     "amylase_esm3_temp_0.5_gen_21": {
-        "esm2_650M_perplexity": 4.9004713607124195
+        "esm2_650M_perplexity": 4.9004713607124195,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96736,
+        "plddt": 0.8164985906670842
     },
     "amylase_esm3_temp_0.5_gen_22": {
-        "esm2_650M_perplexity": 4.925941340460024
+        "esm2_650M_perplexity": 4.925941340460024,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97747,
+        "plddt": 0.8374006881451361
     },
     "amylase_esm3_temp_0.5_gen_23": {
-        "esm2_650M_perplexity": 4.7355211769422025
+        "esm2_650M_perplexity": 4.7355211769422025,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95174,
+        "plddt": 0.8209316965690905
     },
     "amylase_esm3_temp_0.5_gen_24": {
-        "esm2_650M_perplexity": 4.856466810508728
+        "esm2_650M_perplexity": 4.856466810508728,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9687,
+        "plddt": 0.8120018621973929
     },
     "amylase_esm3_temp_0.5_gen_25": {
-        "esm2_650M_perplexity": 4.885880701838855
+        "esm2_650M_perplexity": 4.885880701838855,
+        "seq_id": 0.347068145800317,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97753,
+        "plddt": 0.816086956521739
     },
     "amylase_esm3_temp_0.5_gen_26": {
-        "esm2_650M_perplexity": 4.772199625989598
+        "esm2_650M_perplexity": 4.772199625989598,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97342,
+        "plddt": 0.8332684584491813
     },
     "amylase_esm3_temp_0.5_gen_27": {
-        "esm2_650M_perplexity": 4.9483089883681375
+        "esm2_650M_perplexity": 4.9483089883681375,
+        "seq_id": 0.347068145800317,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95776,
+        "plddt": 0.8319056603773585
     },
     "amylase_esm3_temp_0.5_gen_28": {
-        "esm2_650M_perplexity": 4.731967691681364
+        "esm2_650M_perplexity": 4.731967691681364,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95896,
+        "plddt": 0.8158587727412889
     },
     "amylase_esm3_temp_0.5_gen_29": {
-        "esm2_650M_perplexity": 4.837608115519433
+        "esm2_650M_perplexity": 4.837608115519433,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97564,
+        "plddt": 0.8221286660359507
     },
     "amylase_esm3_temp_0.5_gen_30": {
-        "esm2_650M_perplexity": 5.450220495945187
+        "esm2_650M_perplexity": 5.450220495945187,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94769,
+        "plddt": 0.8180666251556663
     },
     "amylase_esm3_temp_0.5_gen_31": {
-        "esm2_650M_perplexity": 4.790671424395862
+        "esm2_650M_perplexity": 4.790671424395862,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95453,
+        "plddt": 0.8022143298332303
     },
     "amylase_esm3_temp_0.5_gen_32": {
-        "esm2_650M_perplexity": 4.697461301630803
+        "esm2_650M_perplexity": 4.697461301630803,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96205,
+        "plddt": 0.8347516401124648
     },
     "amylase_esm3_temp_0.5_gen_33": {
-        "esm2_650M_perplexity": 4.462103875392956
+        "esm2_650M_perplexity": 4.462103875392956,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97423,
+        "plddt": 0.8176536661466458
     },
     "amylase_esm3_temp_0.5_gen_34": {
-        "esm2_650M_perplexity": 4.8678269234836575
+        "esm2_650M_perplexity": 4.8678269234836575,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95773,
+        "plddt": 0.8203677157993144
     },
     "amylase_esm3_temp_0.5_gen_35": {
-        "esm2_650M_perplexity": 5.141362527320873
+        "esm2_650M_perplexity": 5.141362527320873,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95217,
+        "plddt": 0.8165869770368042
     },
     "amylase_esm3_temp_0.5_gen_36": {
-        "esm2_650M_perplexity": 4.812040827459706
+        "esm2_650M_perplexity": 4.812040827459706,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97507,
+        "plddt": 0.8454912935323383
     },
     "amylase_esm3_temp_0.5_gen_37": {
-        "esm2_650M_perplexity": 4.975530902569393
+        "esm2_650M_perplexity": 4.975530902569393,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97112,
+        "plddt": 0.8414998411185255
     },
     "amylase_esm3_temp_0.5_gen_38": {
-        "esm2_650M_perplexity": 4.82518437291487
+        "esm2_650M_perplexity": 4.82518437291487,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97215,
+        "plddt": 0.8430614143920595
     },
     "amylase_esm3_temp_0.5_gen_39": {
-        "esm2_650M_perplexity": 4.825328015937473
+        "esm2_650M_perplexity": 4.825328015937473,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96809,
+        "plddt": 0.8265280728376329
     },
     "amylase_esm3_temp_0.5_gen_40": {
-        "esm2_650M_perplexity": 4.66441009411746
+        "esm2_650M_perplexity": 4.66441009411746,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9561,
+        "plddt": 0.809856429463171
     },
     "amylase_esm3_temp_0.5_gen_41": {
-        "esm2_650M_perplexity": 5.161282164541188
+        "esm2_650M_perplexity": 5.161282164541188,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95668,
+        "plddt": 0.798348367029549
     },
     "amylase_esm3_temp_0.5_gen_42": {
-        "esm2_650M_perplexity": 4.957860646475373
+        "esm2_650M_perplexity": 4.957860646475373,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97147,
+        "plddt": 0.825293205088427
     },
     "amylase_esm3_temp_0.5_gen_43": {
-        "esm2_650M_perplexity": 4.733103041019983
+        "esm2_650M_perplexity": 4.733103041019983,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96881,
+        "plddt": 0.8244547420451034
     },
     "amylase_esm3_temp_0.5_gen_44": {
-        "esm2_650M_perplexity": 5.2971636312494335
+        "esm2_650M_perplexity": 5.2971636312494335,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95921,
+        "plddt": 0.8373360148514851
     },
     "amylase_esm3_temp_0.5_gen_45": {
-        "esm2_650M_perplexity": 4.874429592186484
+        "esm2_650M_perplexity": 4.874429592186484,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95089,
+        "plddt": 0.7972664792252422
     },
     "amylase_esm3_temp_0.5_gen_46": {
-        "esm2_650M_perplexity": 4.689590019898065
+        "esm2_650M_perplexity": 4.689590019898065,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96428,
+        "plddt": 0.8037115324836804
     },
     "amylase_esm3_temp_0.5_gen_47": {
-        "esm2_650M_perplexity": 4.471153644374123
+        "esm2_650M_perplexity": 4.471153644374123,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96831,
+        "plddt": 0.8252036753445635
     },
     "amylase_esm3_temp_0.5_gen_48": {
-        "esm2_650M_perplexity": 5.0455037095112365
+        "esm2_650M_perplexity": 5.0455037095112365,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9723,
+        "plddt": 0.7985159888233467
     },
     "amylase_esm3_temp_0.5_gen_49": {
-        "esm2_650M_perplexity": 4.935607014841453
+        "esm2_650M_perplexity": 4.935607014841453,
+        "seq_id": 0.32605304212168484,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97481,
+        "plddt": 0.8282551181102361
     },
     "amylase_esm3_temp_0.5_gen_50": {
-        "esm2_650M_perplexity": 5.018262105794087
+        "esm2_650M_perplexity": 5.018262105794087,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96616,
+        "plddt": 0.8547191011235954
     },
     "amylase_esm3_temp_0.5_gen_51": {
-        "esm2_650M_perplexity": 4.816941837050146
+        "esm2_650M_perplexity": 4.816941837050146,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96843,
+        "plddt": 0.8069597989949747
     },
     "amylase_esm3_temp_0.5_gen_52": {
-        "esm2_650M_perplexity": 4.69127271746052
+        "esm2_650M_perplexity": 4.69127271746052,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97472,
+        "plddt": 0.8269153164169979
     },
     "amylase_esm3_temp_0.5_gen_53": {
-        "esm2_650M_perplexity": 5.335888878688817
+        "esm2_650M_perplexity": 5.335888878688817,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96338,
+        "plddt": 0.8182567108917002
     },
     "amylase_esm3_temp_0.5_gen_54": {
-        "esm2_650M_perplexity": 5.186846162327932
+        "esm2_650M_perplexity": 5.186846162327932,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95815,
+        "plddt": 0.8186055159590951
     },
     "amylase_esm3_temp_0.5_gen_55": {
-        "esm2_650M_perplexity": 5.048095426944388
+        "esm2_650M_perplexity": 5.048095426944388,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96796,
+        "plddt": 0.8216128020081581
     },
     "amylase_esm3_temp_0.5_gen_56": {
-        "esm2_650M_perplexity": 4.954437142118062
+        "esm2_650M_perplexity": 4.954437142118062,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9666,
+        "plddt": 0.8123722514710437
     },
     "amylase_esm3_temp_0.5_gen_57": {
-        "esm2_650M_perplexity": 4.872038725477297
+        "esm2_650M_perplexity": 4.872038725477297,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96863,
+        "plddt": 0.8508193146417445
     },
     "amylase_esm3_temp_0.5_gen_58": {
-        "esm2_650M_perplexity": 4.956562251263353
+        "esm2_650M_perplexity": 4.956562251263353,
+        "seq_id": 0.347068145800317,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96652,
+        "plddt": 0.7951614906832298
     },
     "amylase_esm3_temp_0.5_gen_59": {
-        "esm2_650M_perplexity": 4.998569059537044
+        "esm2_650M_perplexity": 4.998569059537044,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95619,
+        "plddt": 0.8143513097072418
     },
     "amylase_esm3_temp_0.5_gen_60": {
-        "esm2_650M_perplexity": 4.6510070025607995
+        "esm2_650M_perplexity": 4.6510070025607995,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9688,
+        "plddt": 0.8166917529005957
     },
     "amylase_esm3_temp_0.5_gen_61": {
-        "esm2_650M_perplexity": 5.601487191685355
+        "esm2_650M_perplexity": 5.601487191685355,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95878,
+        "plddt": 0.8104361370716511
     },
     "amylase_esm3_temp_0.5_gen_62": {
-        "esm2_650M_perplexity": 4.829934188530296
+        "esm2_650M_perplexity": 4.829934188530296,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97467,
+        "plddt": 0.837452447770502
     },
     "amylase_esm3_temp_0.5_gen_63": {
-        "esm2_650M_perplexity": 5.103112083552558
+        "esm2_650M_perplexity": 5.103112083552558,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97879,
+        "plddt": 0.8733884039900249
     },
     "amylase_esm3_temp_0.5_gen_64": {
-        "esm2_650M_perplexity": 5.001063495691067
+        "esm2_650M_perplexity": 5.001063495691067,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.98525,
+        "plddt": 0.8528405887879736
     },
     "amylase_esm3_temp_0.5_gen_65": {
-        "esm2_650M_perplexity": 4.744673902539128
+        "esm2_650M_perplexity": 4.744673902539128,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96228,
+        "plddt": 0.819642857142857
     },
     "amylase_esm3_temp_0.5_gen_66": {
-        "esm2_650M_perplexity": 5.219840586252348
+        "esm2_650M_perplexity": 5.219840586252348,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94943,
+        "plddt": 0.8118190155915622
     },
     "amylase_esm3_temp_0.5_gen_67": {
-        "esm2_650M_perplexity": 4.8226023831350595
+        "esm2_650M_perplexity": 4.8226023831350595,
+        "seq_id": 0.347068145800317,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.98022,
+        "plddt": 0.8342616297221356
     },
     "amylase_esm3_temp_0.5_gen_68": {
-        "esm2_650M_perplexity": 5.261805728827782
+        "esm2_650M_perplexity": 5.261805728827782,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97931,
+        "plddt": 0.8401623477989385
     },
     "amylase_esm3_temp_0.5_gen_69": {
-        "esm2_650M_perplexity": 5.077291472478242
+        "esm2_650M_perplexity": 5.077291472478242,
+        "seq_id": 0.34069400630914826,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9651,
+        "plddt": 0.8315191831683167
     },
     "amylase_esm3_temp_0.5_gen_70": {
-        "esm2_650M_perplexity": 4.787021092571675
+        "esm2_650M_perplexity": 4.787021092571675,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96007,
+        "plddt": 0.8189486703772418
     },
     "amylase_esm3_temp_0.5_gen_71": {
-        "esm2_650M_perplexity": 4.73266593163524
+        "esm2_650M_perplexity": 4.73266593163524,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95748,
+        "plddt": 0.8272372093023256
     },
     "amylase_esm3_temp_0.5_gen_72": {
-        "esm2_650M_perplexity": 5.122033339123132
+        "esm2_650M_perplexity": 5.122033339123132,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96043,
+        "plddt": 0.8230497341257429
     },
     "amylase_esm3_temp_0.5_gen_73": {
-        "esm2_650M_perplexity": 4.957328373792239
+        "esm2_650M_perplexity": 4.957328373792239,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96629,
+        "plddt": 0.8037841229996862
     },
     "amylase_esm3_temp_0.5_gen_74": {
-        "esm2_650M_perplexity": 5.048247921203373
+        "esm2_650M_perplexity": 5.048247921203373,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96447,
+        "plddt": 0.8357723577235773
     },
     "amylase_esm3_temp_0.5_gen_75": {
-        "esm2_650M_perplexity": 5.261625854468653
+        "esm2_650M_perplexity": 5.261625854468653,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96197,
+        "plddt": 0.8165496894409938
     },
     "amylase_esm3_temp_0.5_gen_76": {
-        "esm2_650M_perplexity": 4.567352271141632
+        "esm2_650M_perplexity": 4.567352271141632,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96627,
+        "plddt": 0.8067730936143832
     },
     "amylase_esm3_temp_0.5_gen_77": {
-        "esm2_650M_perplexity": 5.091450477101465
+        "esm2_650M_perplexity": 5.091450477101465,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96809,
+        "plddt": 0.8350469924812031
     },
     "amylase_esm3_temp_0.5_gen_78": {
-        "esm2_650M_perplexity": 4.788565209975669
+        "esm2_650M_perplexity": 4.788565209975669,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95216,
+        "plddt": 0.8110824108241081
     },
     "amylase_esm3_temp_0.5_gen_79": {
-        "esm2_650M_perplexity": 5.01274852617193
+        "esm2_650M_perplexity": 5.01274852617193,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98062,
+        "plddt": 0.840572472594397
     },
     "amylase_esm3_temp_0.5_gen_80": {
-        "esm2_650M_perplexity": 4.8001222631122
+        "esm2_650M_perplexity": 4.8001222631122,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94875,
+        "plddt": 0.8226232558139535
     },
     "amylase_esm3_temp_0.5_gen_81": {
-        "esm2_650M_perplexity": 5.080475790974145
+        "esm2_650M_perplexity": 5.080475790974145,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97637,
+        "plddt": 0.8171601114896253
     },
     "amylase_esm3_temp_0.5_gen_82": {
-        "esm2_650M_perplexity": 5.103621612145271
+        "esm2_650M_perplexity": 5.103621612145271,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96558,
+        "plddt": 0.8339844720496895
     },
     "amylase_esm3_temp_0.5_gen_83": {
-        "esm2_650M_perplexity": 4.819467620251166
+        "esm2_650M_perplexity": 4.819467620251166,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97278,
+        "plddt": 0.8208503294634453
     },
     "amylase_esm3_temp_0.5_gen_84": {
-        "esm2_650M_perplexity": 5.153664241742644
+        "esm2_650M_perplexity": 5.153664241742644,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96158,
+        "plddt": 0.8158100558659218
     },
     "amylase_esm3_temp_0.5_gen_85": {
-        "esm2_650M_perplexity": 5.010823432057931
+        "esm2_650M_perplexity": 5.010823432057931,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97243,
+        "plddt": 0.8218947046219773
     },
     "amylase_esm3_temp_0.5_gen_86": {
-        "esm2_650M_perplexity": 4.885438295136604
+        "esm2_650M_perplexity": 4.885438295136604,
+        "seq_id": 0.3821138211382114,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95607,
+        "plddt": 0.8296051394547165
     },
     "amylase_esm3_temp_0.5_gen_87": {
-        "esm2_650M_perplexity": 4.949496094359168
+        "esm2_650M_perplexity": 4.949496094359168,
+        "seq_id": 0.33858267716535434,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95116,
+        "plddt": 0.8090128486367909
     },
     "amylase_esm3_temp_0.5_gen_88": {
-        "esm2_650M_perplexity": 4.857647683375583
+        "esm2_650M_perplexity": 4.857647683375583,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98171,
+        "plddt": 0.8368938926588526
     },
     "amylase_esm3_temp_0.5_gen_89": {
-        "esm2_650M_perplexity": 4.808965051040434
+        "esm2_650M_perplexity": 4.808965051040434,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95462,
+        "plddt": 0.8025597484276731
     },
     "amylase_esm3_temp_0.5_gen_90": {
-        "esm2_650M_perplexity": 4.875656681124533
+        "esm2_650M_perplexity": 4.875656681124533,
+        "seq_id": 0.3449367088607595,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96554,
+        "plddt": 0.8211255010792475
     },
     "amylase_esm3_temp_0.5_gen_91": {
-        "esm2_650M_perplexity": 4.496498720806465
+        "esm2_650M_perplexity": 4.496498720806465,
+        "seq_id": 0.38436482084690554,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95222,
+        "plddt": 0.8268373115577888
     },
     "amylase_esm3_temp_0.5_gen_92": {
-        "esm2_650M_perplexity": 5.4349504178924075
+        "esm2_650M_perplexity": 5.4349504178924075,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97257,
+        "plddt": 0.8173008578431373
     },
     "amylase_esm3_temp_0.5_gen_93": {
-        "esm2_650M_perplexity": 4.4414636386584325
+        "esm2_650M_perplexity": 4.4414636386584325,
+        "seq_id": 0.347068145800317,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.94989,
+        "plddt": 0.8183876017532875
     },
     "amylase_esm3_temp_0.5_gen_94": {
-        "esm2_650M_perplexity": 4.773740144664615
+        "esm2_650M_perplexity": 4.773740144664615,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97566,
+        "plddt": 0.8277329580988118
     },
     "amylase_esm3_temp_0.5_gen_95": {
-        "esm2_650M_perplexity": 5.29664945175993
+        "esm2_650M_perplexity": 5.29664945175993,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95457,
+        "plddt": 0.7934759852216748
     },
     "amylase_esm3_temp_0.5_gen_96": {
-        "esm2_650M_perplexity": 4.659606617838254
+        "esm2_650M_perplexity": 4.659606617838254,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96494,
+        "plddt": 0.8279209183673468
     },
     "amylase_esm3_temp_0.5_gen_97": {
-        "esm2_650M_perplexity": 5.178112768402305
+        "esm2_650M_perplexity": 5.178112768402305,
+        "seq_id": 0.32605304212168484,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96558,
+        "plddt": 0.8147740112994349
     },
     "amylase_esm3_temp_0.5_gen_98": {
-        "esm2_650M_perplexity": 4.5816332704718095
+        "esm2_650M_perplexity": 4.5816332704718095,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97862,
+        "plddt": 0.8372890818858562
     },
     "amylase_esm3_temp_0.5_gen_99": {
-        "esm2_650M_perplexity": 4.980297840841394
+        "esm2_650M_perplexity": 4.980297840841394,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96294,
+        "plddt": 0.8230411892226696
     },
     "amylase_esm3_temp_0.5_gen_100": {
-        "esm2_650M_perplexity": 4.746572538438837
+        "esm2_650M_perplexity": 4.746572538438837,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95577,
+        "plddt": 0.8245537112433449
     },
     "amylase_esm3_temp_0.5_gen_101": {
-        "esm2_650M_perplexity": 5.155038652325276
+        "esm2_650M_perplexity": 5.155038652325276,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97513,
+        "plddt": 0.817539975399754
     },
     "amylase_esm3_temp_0.5_gen_102": {
-        "esm2_650M_perplexity": 4.997778916235807
+        "esm2_650M_perplexity": 4.997778916235807,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97635,
+        "plddt": 0.853922789539228
     },
     "amylase_esm3_temp_0.5_gen_103": {
-        "esm2_650M_perplexity": 4.296092163759212
+        "esm2_650M_perplexity": 4.296092163759212,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96588,
+        "plddt": 0.8357002222927913
     },
     "amylase_esm3_temp_0.5_gen_104": {
-        "esm2_650M_perplexity": 4.805453679264087
+        "esm2_650M_perplexity": 4.805453679264087,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97065,
+        "plddt": 0.8236146095717884
     },
     "amylase_esm3_temp_0.5_gen_105": {
-        "esm2_650M_perplexity": 4.694084367536062
+        "esm2_650M_perplexity": 4.694084367536062,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97425,
+        "plddt": 0.8076576292559898
     },
     "amylase_esm3_temp_0.5_gen_106": {
-        "esm2_650M_perplexity": 5.310379861320497
+        "esm2_650M_perplexity": 5.310379861320497,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96432,
+        "plddt": 0.8048209366391185
     },
     "amylase_esm3_temp_0.5_gen_107": {
-        "esm2_650M_perplexity": 4.78342405362782
+        "esm2_650M_perplexity": 4.78342405362782,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96533,
+        "plddt": 0.8153781250000001
     },
     "amylase_esm3_temp_0.5_gen_108": {
-        "esm2_650M_perplexity": 4.672324752131605
+        "esm2_650M_perplexity": 4.672324752131605,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95165,
+        "plddt": 0.8175954080049642
     },
     "amylase_esm3_temp_0.5_gen_109": {
-        "esm2_650M_perplexity": 5.340042922530565
+        "esm2_650M_perplexity": 5.340042922530565,
+        "seq_id": 0.3866231647634584,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9793,
+        "plddt": 0.840448777468276
     },
     "amylase_esm3_temp_0.5_gen_110": {
-        "esm2_650M_perplexity": 4.717808013452761
+        "esm2_650M_perplexity": 4.717808013452761,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95763,
+        "plddt": 0.7991433021806854
     },
     "amylase_esm3_temp_0.5_gen_111": {
-        "esm2_650M_perplexity": 4.880202737408186
+        "esm2_650M_perplexity": 4.880202737408186,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97489,
+        "plddt": 0.8008647798742138
     },
     "amylase_esm3_temp_0.5_gen_112": {
-        "esm2_650M_perplexity": 4.80708726291722
+        "esm2_650M_perplexity": 4.80708726291722,
+        "seq_id": 0.38436482084690554,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96775,
+        "plddt": 0.8234544879898862
     },
     "amylase_esm3_temp_0.5_gen_113": {
-        "esm2_650M_perplexity": 4.982617541362398
+        "esm2_650M_perplexity": 4.982617541362398,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96755,
+        "plddt": 0.838631746031746
     },
     "amylase_esm3_temp_0.5_gen_114": {
-        "esm2_650M_perplexity": 5.1081631758633925
+        "esm2_650M_perplexity": 5.1081631758633925,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97392,
+        "plddt": 0.8219192235441453
     },
     "amylase_esm3_temp_0.5_gen_115": {
-        "esm2_650M_perplexity": 4.918844153091104
+        "esm2_650M_perplexity": 4.918844153091104,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96599,
+        "plddt": 0.8128863707900535
     },
     "amylase_esm3_temp_0.5_gen_116": {
-        "esm2_650M_perplexity": 4.974723235881641
+        "esm2_650M_perplexity": 4.974723235881641,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97363,
+        "plddt": 0.8327452800990407
     },
     "amylase_esm3_temp_0.5_gen_117": {
-        "esm2_650M_perplexity": 4.9682010025422265
+        "esm2_650M_perplexity": 4.9682010025422265,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97304,
+        "plddt": 0.8167028873020801
     },
     "amylase_esm3_temp_0.5_gen_118": {
-        "esm2_650M_perplexity": 4.982148532039913
+        "esm2_650M_perplexity": 4.982148532039913,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96381,
+        "plddt": 0.8088141923436039
     },
     "amylase_esm3_temp_0.5_gen_119": {
-        "esm2_650M_perplexity": 4.580207948264065
+        "esm2_650M_perplexity": 4.580207948264065,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96256,
+        "plddt": 0.8240859203512073
     },
     "amylase_esm3_temp_0.5_gen_120": {
-        "esm2_650M_perplexity": 4.637111632929523
+        "esm2_650M_perplexity": 4.637111632929523,
+        "seq_id": 0.3888888888888889,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97978,
+        "plddt": 0.8226177199504336
     },
     "amylase_esm3_temp_0.5_gen_121": {
-        "esm2_650M_perplexity": 4.938612111823455
+        "esm2_650M_perplexity": 4.938612111823455,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96509,
+        "plddt": 0.8354885590599875
     },
     "amylase_esm3_temp_0.5_gen_122": {
-        "esm2_650M_perplexity": 4.753941841967698
+        "esm2_650M_perplexity": 4.753941841967698,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94988,
+        "plddt": 0.807827564894932
     },
     "amylase_esm3_temp_0.5_gen_123": {
-        "esm2_650M_perplexity": 5.0913283568268035
+        "esm2_650M_perplexity": 5.0913283568268035,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96703,
+        "plddt": 0.8207236842105263
     },
     "amylase_esm3_temp_0.5_gen_124": {
-        "esm2_650M_perplexity": 4.9269560597403235
+        "esm2_650M_perplexity": 4.9269560597403235,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97238,
+        "plddt": 0.8165417057169635
     },
     "amylase_esm3_temp_0.5_gen_125": {
-        "esm2_650M_perplexity": 4.939817665449668
+        "esm2_650M_perplexity": 4.939817665449668,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95814,
+        "plddt": 0.8281230674087817
     },
     "amylase_esm3_temp_0.5_gen_126": {
-        "esm2_650M_perplexity": 5.218259017838786
+        "esm2_650M_perplexity": 5.218259017838786,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96347,
+        "plddt": 0.8234151646985706
     },
     "amylase_esm3_temp_0.5_gen_127": {
-        "esm2_650M_perplexity": 4.7214076751611875
+        "esm2_650M_perplexity": 4.7214076751611875,
+        "seq_id": 0.3866231647634584,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98203,
+        "plddt": 0.8364243917462273
     },
     "amylase_esm3_temp_0.5_gen_128": {
-        "esm2_650M_perplexity": 4.703195379543314
+        "esm2_650M_perplexity": 4.703195379543314,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96159,
+        "plddt": 0.8509403311465168
     },
     "amylase_esm3_temp_0.5_gen_129": {
-        "esm2_650M_perplexity": 5.351455808294921
+        "esm2_650M_perplexity": 5.351455808294921,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96417,
+        "plddt": 0.8128996960486322
     },
     "amylase_esm3_temp_0.5_gen_130": {
-        "esm2_650M_perplexity": 4.779644052485451
+        "esm2_650M_perplexity": 4.779644052485451,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97316,
+        "plddt": 0.8515199750312108
     },
     "amylase_esm3_temp_0.5_gen_131": {
-        "esm2_650M_perplexity": 5.141931907933953
+        "esm2_650M_perplexity": 5.141931907933953,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97816,
+        "plddt": 0.8490231839258113
     },
     "amylase_esm3_temp_0.5_gen_132": {
-        "esm2_650M_perplexity": 5.038110383389068
+        "esm2_650M_perplexity": 5.038110383389068,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95189,
+        "plddt": 0.8094402751719824
     },
     "amylase_esm3_temp_0.5_gen_133": {
-        "esm2_650M_perplexity": 5.154472532245714
+        "esm2_650M_perplexity": 5.154472532245714,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97544,
+        "plddt": 0.8394691358024692
     },
     "amylase_esm3_temp_0.5_gen_134": {
-        "esm2_650M_perplexity": 5.198807058899761
+        "esm2_650M_perplexity": 5.198807058899761,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95284,
+        "plddt": 0.8212932098765433
     },
     "amylase_esm3_temp_0.5_gen_135": {
-        "esm2_650M_perplexity": 4.940691106550866
+        "esm2_650M_perplexity": 4.940691106550866,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95573,
+        "plddt": 0.8248352325223283
     },
     "amylase_esm3_temp_0.5_gen_136": {
-        "esm2_650M_perplexity": 4.615330814747896
+        "esm2_650M_perplexity": 4.615330814747896,
+        "seq_id": 0.39344262295081966,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98137,
+        "plddt": 0.8310074395536268
     },
     "amylase_esm3_temp_0.5_gen_137": {
-        "esm2_650M_perplexity": 5.021345684450782
+        "esm2_650M_perplexity": 5.021345684450782,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97653,
+        "plddt": 0.8373697193956212
     },
     "amylase_esm3_temp_0.5_gen_138": {
-        "esm2_650M_perplexity": 5.2129874136584196
+        "esm2_650M_perplexity": 5.2129874136584196,
+        "seq_id": 0.3449367088607595,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97882,
+        "plddt": 0.835815847165675
     },
     "amylase_esm3_temp_0.5_gen_139": {
-        "esm2_650M_perplexity": 4.7847842345826805
+        "esm2_650M_perplexity": 4.7847842345826805,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97547,
+        "plddt": 0.8390525653131886
     },
     "amylase_esm3_temp_0.5_gen_140": {
-        "esm2_650M_perplexity": 4.841545067298103
+        "esm2_650M_perplexity": 4.841545067298103,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97598,
+        "plddt": 0.8234919672628068
     },
     "amylase_esm3_temp_0.5_gen_141": {
-        "esm2_650M_perplexity": 4.9406232891500785
+        "esm2_650M_perplexity": 4.9406232891500785,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.93384,
+        "plddt": 0.7925574177529484
     },
     "amylase_esm3_temp_0.5_gen_142": {
-        "esm2_650M_perplexity": 4.600857781795737
+        "esm2_650M_perplexity": 4.600857781795737,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96784,
+        "plddt": 0.8276547842401502
     },
     "amylase_esm3_temp_0.5_gen_143": {
-        "esm2_650M_perplexity": 5.102613363922947
+        "esm2_650M_perplexity": 5.102613363922947,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95922,
+        "plddt": 0.8227526348419094
     },
     "amylase_esm3_temp_0.5_gen_144": {
-        "esm2_650M_perplexity": 4.697093650314713
+        "esm2_650M_perplexity": 4.697093650314713,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97353,
+        "plddt": 0.8204050235478808
     },
     "amylase_esm3_temp_0.5_gen_145": {
-        "esm2_650M_perplexity": 4.8973462683476825
+        "esm2_650M_perplexity": 4.8973462683476825,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98048,
+        "plddt": 0.835119496855346
     },
     "amylase_esm3_temp_0.5_gen_146": {
-        "esm2_650M_perplexity": 5.101828704848746
+        "esm2_650M_perplexity": 5.101828704848746,
+        "seq_id": 0.3492063492063492,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96244,
+        "plddt": 0.8134489281210593
     },
     "amylase_esm3_temp_0.5_gen_147": {
-        "esm2_650M_perplexity": 4.758390946386187
+        "esm2_650M_perplexity": 4.758390946386187,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97454,
+        "plddt": 0.8492609771181201
     },
     "amylase_esm3_temp_0.5_gen_148": {
-        "esm2_650M_perplexity": 5.298630697457644
+        "esm2_650M_perplexity": 5.298630697457644,
+        "seq_id": 0.35135135135135137,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96812,
+        "plddt": 0.8249786455155582
     },
     "amylase_esm3_temp_0.5_gen_149": {
-        "esm2_650M_perplexity": 4.692368196526139
+        "esm2_650M_perplexity": 4.692368196526139,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9703,
+        "plddt": 0.8144679527069072
     },
     "amylase_esm3_temp_0.5_gen_150": {
-        "esm2_650M_perplexity": 5.079967460821377
+        "esm2_650M_perplexity": 5.079967460821377,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97068,
+        "plddt": 0.8236269592476488
     },
     "amylase_esm3_temp_0.5_gen_151": {
-        "esm2_650M_perplexity": 4.98333412974873
+        "esm2_650M_perplexity": 4.98333412974873,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96147,
+        "plddt": 0.8042489808717467
     },
     "amylase_esm3_temp_0.5_gen_152": {
-        "esm2_650M_perplexity": 4.955057313321725
+        "esm2_650M_perplexity": 4.955057313321725,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97739,
+        "plddt": 0.8342167182662539
     },
     "amylase_esm3_temp_0.5_gen_153": {
-        "esm2_650M_perplexity": 4.919657074509527
+        "esm2_650M_perplexity": 4.919657074509527,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97045,
+        "plddt": 0.8234748091603054
     },
     "amylase_esm3_temp_0.5_gen_154": {
-        "esm2_650M_perplexity": 4.730311331757026
+        "esm2_650M_perplexity": 4.730311331757026,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97027,
+        "plddt": 0.8255433761352959
     },
     "amylase_esm3_temp_0.5_gen_155": {
-        "esm2_650M_perplexity": 4.5059871385235875
+        "esm2_650M_perplexity": 4.5059871385235875,
+        "seq_id": 0.37318255250403876,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.94794,
+        "plddt": 0.8552279069767442
     },
     "amylase_esm3_temp_0.5_gen_156": {
-        "esm2_650M_perplexity": 5.313070099599694
+        "esm2_650M_perplexity": 5.313070099599694,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94384,
+        "plddt": 0.8050577223088924
     },
     "amylase_esm3_temp_0.5_gen_157": {
-        "esm2_650M_perplexity": 4.894066183238946
+        "esm2_650M_perplexity": 4.894066183238946,
+        "seq_id": 0.34281200631911535,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9675,
+        "plddt": 0.8243800876643707
     },
     "amylase_esm3_temp_0.5_gen_158": {
-        "esm2_650M_perplexity": 4.933970498554053
+        "esm2_650M_perplexity": 4.933970498554053,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96246,
+        "plddt": 0.808536434108527
     },
     "amylase_esm3_temp_0.5_gen_159": {
-        "esm2_650M_perplexity": 4.575379010354168
+        "esm2_650M_perplexity": 4.575379010354168,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96358,
+        "plddt": 0.8178354707538317
     },
     "amylase_esm3_temp_0.5_gen_160": {
-        "esm2_650M_perplexity": 5.0672456914677895
+        "esm2_650M_perplexity": 5.0672456914677895,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97341,
+        "plddt": 0.8036114570361145
     },
     "amylase_esm3_temp_0.5_gen_161": {
-        "esm2_650M_perplexity": 5.208066128568479
+        "esm2_650M_perplexity": 5.208066128568479,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9736,
+        "plddt": 0.8030718544085347
     },
     "amylase_esm3_temp_0.5_gen_162": {
-        "esm2_650M_perplexity": 4.933286890234666
+        "esm2_650M_perplexity": 4.933286890234666,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.9573,
+        "plddt": 0.8198188632104935
     },
     "amylase_esm3_temp_0.5_gen_163": {
-        "esm2_650M_perplexity": 5.327646209062116
+        "esm2_650M_perplexity": 5.327646209062116,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97153,
+        "plddt": 0.8048225404732254
     },
     "amylase_esm3_temp_0.5_gen_164": {
-        "esm2_650M_perplexity": 4.809753501169067
+        "esm2_650M_perplexity": 4.809753501169067,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97013,
+        "plddt": 0.8136134708737864
     },
     "amylase_esm3_temp_0.5_gen_165": {
-        "esm2_650M_perplexity": 4.915839684990834
+        "esm2_650M_perplexity": 4.915839684990834,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97126,
+        "plddt": 0.8174161490683229
     },
     "amylase_esm3_temp_0.5_gen_166": {
-        "esm2_650M_perplexity": 5.112157430386286
+        "esm2_650M_perplexity": 5.112157430386286,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97079,
+        "plddt": 0.816259707983846
     },
     "amylase_esm3_temp_0.5_gen_167": {
-        "esm2_650M_perplexity": 4.501992795153972
+        "esm2_650M_perplexity": 4.501992795153972,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96963,
+        "plddt": 0.8129702970297029
     },
     "amylase_esm3_temp_0.5_gen_168": {
-        "esm2_650M_perplexity": 4.98396809851572
+        "esm2_650M_perplexity": 4.98396809851572,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98071,
+        "plddt": 0.8448428835489833
     },
     "amylase_esm3_temp_0.5_gen_169": {
-        "esm2_650M_perplexity": 4.823397522019691
+        "esm2_650M_perplexity": 4.823397522019691,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97686,
+        "plddt": 0.8067909746161079
     },
     "amylase_esm3_temp_0.5_gen_170": {
-        "esm2_650M_perplexity": 4.804879292277399
+        "esm2_650M_perplexity": 4.804879292277399,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96276,
+        "plddt": 0.8233072590738423
     },
     "amylase_esm3_temp_0.5_gen_171": {
-        "esm2_650M_perplexity": 4.791578181699446
+        "esm2_650M_perplexity": 4.791578181699446,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97443,
+        "plddt": 0.8267263743051266
     },
     "amylase_esm3_temp_0.5_gen_172": {
-        "esm2_650M_perplexity": 5.040745058979555
+        "esm2_650M_perplexity": 5.040745058979555,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.93859,
+        "plddt": 0.7925610519724482
     },
     "amylase_esm3_temp_0.5_gen_173": {
-        "esm2_650M_perplexity": 4.979815803961941
+        "esm2_650M_perplexity": 4.979815803961941,
+        "seq_id": 0.35782747603833864,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97778,
+        "plddt": 0.8367136591478697
     },
     "amylase_esm3_temp_0.5_gen_174": {
-        "esm2_650M_perplexity": 4.761439686713212
+        "esm2_650M_perplexity": 4.761439686713212,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96416,
+        "plddt": 0.8238995290423862
     },
     "amylase_esm3_temp_0.5_gen_175": {
-        "esm2_650M_perplexity": 4.884601657495828
+        "esm2_650M_perplexity": 4.884601657495828,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.94325,
+        "plddt": 0.8172999999999999
     },
     "amylase_esm3_temp_0.5_gen_176": {
-        "esm2_650M_perplexity": 4.928443078985939
+        "esm2_650M_perplexity": 4.928443078985939,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9763,
+        "plddt": 0.8347872009940976
     },
     "amylase_esm3_temp_0.5_gen_177": {
-        "esm2_650M_perplexity": 4.677000533323315
+        "esm2_650M_perplexity": 4.677000533323315,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97652,
+        "plddt": 0.8242214532871972
     },
     "amylase_esm3_temp_0.5_gen_178": {
-        "esm2_650M_perplexity": 4.816643661290681
+        "esm2_650M_perplexity": 4.816643661290681,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96486,
+        "plddt": 0.8263856168629883
     },
     "amylase_esm3_temp_0.5_gen_179": {
-        "esm2_650M_perplexity": 4.933677115716926
+        "esm2_650M_perplexity": 4.933677115716926,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96704,
+        "plddt": 0.810880217785844
     },
     "amylase_esm3_temp_0.5_gen_180": {
-        "esm2_650M_perplexity": 4.6984466523611506
+        "esm2_650M_perplexity": 4.6984466523611506,
+        "seq_id": 0.3449367088607595,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95042,
+        "plddt": 0.852866181588105
     },
     "amylase_esm3_temp_0.5_gen_181": {
-        "esm2_650M_perplexity": 5.109487167083391
+        "esm2_650M_perplexity": 5.109487167083391,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97236,
+        "plddt": 0.8007109593294008
     },
     "amylase_esm3_temp_0.5_gen_182": {
-        "esm2_650M_perplexity": 4.914689736493325
+        "esm2_650M_perplexity": 4.914689736493325,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96208,
+        "plddt": 0.8084789440603394
     },
     "amylase_esm3_temp_0.5_gen_183": {
-        "esm2_650M_perplexity": 5.0594503505612165
+        "esm2_650M_perplexity": 5.0594503505612165,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97173,
+        "plddt": 0.8343451463790447
     },
     "amylase_esm3_temp_0.5_gen_184": {
-        "esm2_650M_perplexity": 4.980040406372296
+        "esm2_650M_perplexity": 4.980040406372296,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96135,
+        "plddt": 0.8311719470932021
     },
     "amylase_esm3_temp_0.5_gen_185": {
-        "esm2_650M_perplexity": 4.581650818343088
+        "esm2_650M_perplexity": 4.581650818343088,
+        "seq_id": 0.3866231647634584,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.96071,
+        "plddt": 0.8291136861885374
     },
     "amylase_esm3_temp_0.5_gen_186": {
-        "esm2_650M_perplexity": 4.605851428581363
+        "esm2_650M_perplexity": 4.605851428581363,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.98082,
+        "plddt": 0.8251965065502184
     },
     "amylase_esm3_temp_0.5_gen_187": {
-        "esm2_650M_perplexity": 5.034875201780264
+        "esm2_650M_perplexity": 5.034875201780264,
+        "seq_id": 0.36436597110754415,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9531,
+        "plddt": 0.788585289514867
     },
     "amylase_esm3_temp_0.5_gen_188": {
-        "esm2_650M_perplexity": 4.957947034371316
+        "esm2_650M_perplexity": 4.957947034371316,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97099,
+        "plddt": 0.8290092879256965
     },
     "amylase_esm3_temp_0.5_gen_189": {
-        "esm2_650M_perplexity": 4.813722195141445
+        "esm2_650M_perplexity": 4.813722195141445,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.97526,
+        "plddt": 0.8175863141524106
     },
     "amylase_esm3_temp_0.5_gen_190": {
-        "esm2_650M_perplexity": 4.742525466932163
+        "esm2_650M_perplexity": 4.742525466932163,
+        "seq_id": 0.3687600644122383,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.96109,
+        "plddt": 0.8088675799086757
     },
     "amylase_esm3_temp_0.5_gen_191": {
-        "esm2_650M_perplexity": 5.002815148971676
+        "esm2_650M_perplexity": 5.002815148971676,
+        "seq_id": 0.3709677419354839,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95968,
+        "plddt": 0.8125891181988742
     },
     "amylase_esm3_temp_0.5_gen_192": {
-        "esm2_650M_perplexity": 4.676852854617644
+        "esm2_650M_perplexity": 4.676852854617644,
+        "seq_id": 0.37763371150729336,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95547,
+        "plddt": 0.8059252336448598
     },
     "amylase_esm3_temp_0.5_gen_193": {
-        "esm2_650M_perplexity": 5.084645690586686
+        "esm2_650M_perplexity": 5.084645690586686,
+        "seq_id": 0.35566188197767146,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.94374,
+        "plddt": 0.7982695924764892
     },
     "amylase_esm3_temp_0.5_gen_194": {
-        "esm2_650M_perplexity": 5.121849446067932
+        "esm2_650M_perplexity": 5.121849446067932,
+        "seq_id": 0.36217948717948717,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.98038,
+        "plddt": 0.8150409577819787
     },
     "amylase_esm3_temp_0.5_gen_195": {
-        "esm2_650M_perplexity": 5.1881473017037925
+        "esm2_650M_perplexity": 5.1881473017037925,
+        "seq_id": 0.3665594855305466,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95689,
+        "plddt": 0.8131170837194933
     },
     "amylase_esm3_temp_0.5_gen_196": {
-        "esm2_650M_perplexity": 5.503539490329678
+        "esm2_650M_perplexity": 5.503539490329678,
+        "seq_id": 0.36,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.9765,
+        "plddt": 0.8062738461538461
     },
     "amylase_esm3_temp_0.5_gen_197": {
-        "esm2_650M_perplexity": 4.633388609917364
+        "esm2_650M_perplexity": 4.633388609917364,
+        "seq_id": 0.37540453074433655,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.97457,
+        "plddt": 0.8356756756756757
     },
     "amylase_esm3_temp_0.5_gen_198": {
-        "esm2_650M_perplexity": 4.783917177363244
+        "esm2_650M_perplexity": 4.783917177363244,
+        "seq_id": 0.37987012987012986,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": false,
+        "TM_score": 0.95859,
+        "plddt": 0.8022869538270838
     },
     "amylase_esm3_temp_0.5_gen_199": {
-        "esm2_650M_perplexity": 5.023922706028628
+        "esm2_650M_perplexity": 5.023922706028628,
+        "seq_id": 0.3535031847133758,
+        "a_amylase_catalytic_hmm": true,
+        "a_amylase_all_beta_hmm": true,
+        "TM_score": 0.95382,
+        "plddt": 0.8331813924445831
     }
 }
