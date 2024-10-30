@@ -33,8 +33,14 @@ use script [esm3](src/scripts/generate_esm3.py)
 #### <ins>Generating Structures and Calculating perplexity</ins>
 
 We use ESMFOLD to predict structures from sequences [src/scripts/esmfold.py](src/scripts/esmfold.py)
+
 We use ESM2 LM to compute perplexity [src/scripts/compute_perplexity.py](src/scripts/compute_perplexity.py)
 
 #### <ins>Evaluating Generations</ins>
 
-We build an RF model on top of ESM2 embeddings to predict activity [refer: surrogate.ipynb]((src/notebooks/surrogate_model.ipynb))
+We build an RF model on top of ESM2 embeddings to predict activity [refer: surrogate_model.ipynb](src/notebooks/surrogate_model.ipynb)
+
+We run in silico evaluation on the generated sequences. Sequence identity, hmmsearch E-value, TM score and pLDDT are computed and saved into metadata [refer: evaluvate_generations.ipynb](src/notebooks/evaluvate_generations.ipynb)
+
+The final 100 sequences are ranked and saved into fasta file [selected_amylase.fasta](Data/selected_amylase.fasta) \
+[refer: final_selection.ipynb](src/notebooks/final_selection.ipynb)
