@@ -11,7 +11,8 @@ from utils import helper
 
 class ESM2():
     def __init__(self, model_path, device='cpu') -> None:
-        self.model, self.alphabet = esm.pretrained.load_model_and_alphabet(model_path)
+        # self.model, self.alphabet = esm.pretrained.load_model_and_alphabet(model_path)
+        self.model, self.alphabet = esm.pretrained.esm2_t33_650M_UR50D()
         self.batch_converter = self.alphabet.get_batch_converter()
         self.model.eval()
         self.device = device
@@ -70,7 +71,7 @@ def compute_perplexity(model, sequence, mask_token='<mask>'):
     return np.exp(-1*sum_log/len(sequence))
 
 model_path = '/data/users/kgeorge/workspace/esm2/checkpoints/esm2_t33_650M_UR50D.pt'
-esm2 = ESM2(model_path = model_path, device='gpu')
+esm2 = ESM2(model_path = model_path, device='gpu') # model_path dosen't matter - I have locally stored esm2
 
 fasta_path = '../../Data/sequences_425.fasta'
 meta_file = '../../Data/sequences_425.metadata.json'
