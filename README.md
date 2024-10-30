@@ -25,3 +25,6 @@ Some sequences were found to be different from alpha-amylases so they were remov
 
 [notebook: validate_input_sequences.ipynb](src/notebooks/validate_input_sequences.ipynb) - here we see if the suspicious sequences are not alpha-amylases. We do this using hmm profiles for the domains in alpha-amylases and using hmmsearch on the suspected sequences.
 
+### Using ESM3
+
+
