@@ -30,6 +30,10 @@ Some sequences were found to be different from alpha-amylases so they were remov
 Here we are adding esm3 as a gitmodule instead of installing (you can also install esm3)
 use script [esm3](src/scripts/generate_esm3.py)
 
+use environment-esm3.yml (environment.yml for all other scripts/notebooks)
+you might need to use (git submodule init and git submodule update)
+you can also install esm3 (refer: [https://github.com/evolutionaryscale/esm](https://github.com/evolutionaryscale/esm))
+
 #### <ins>Generating Structures and Calculating perplexity</ins>
 
 We use ESMFOLD to predict structures from sequences [src/scripts/esmfold.py](src/scripts/esmfold.py)
