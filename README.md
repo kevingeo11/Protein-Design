@@ -11,3 +11,17 @@ The overall workflow is as below
 <p align="center">
 <img src="Data/figs/workflow.jpg" />
 </p>
+
+----
+
+### Details about the Repo
+
+#### Initial Analysis
+
+A preliminary analysis was conducted on the given dataset (Data/sequences.csv). 
+Some sequences were found to be different from alpha-amylases so they were removed.
+
+[notebook: load_and_analyse.ipynb](src/notebooks/load_analyse.ipynb) - we create fasta files and eliminate suspicious sequences.
+
+[notebook: validate_input_sequences.ipynb](src/notebooks/validate_input_sequences.ipynb) - here we see if the suspicious sequences are actually not alpha-amylases. We do this using hmm profiles for the domains in alpha-amylases and using hmmsearch on the suspected sequences.
+
